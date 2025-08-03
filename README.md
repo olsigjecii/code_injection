@@ -1,4 +1,4 @@
-# step to run demo
+# Demo in Rust 🦀
 
 ```bash
 cargo run
